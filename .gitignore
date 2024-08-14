@@ -1,0 +1,10 @@
+History/
+*.step
+*.png
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+__Previews/
+*.pdf
+*.OutJob
+*.Annotation
